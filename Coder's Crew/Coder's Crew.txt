@@ -1,0 +1,30 @@
+~ Description:
+	- The project is based on EduTech.
+	- It is in the form of an android application
+	- Technology used is mixed reality with augmented reality
+
+~ Contents of project directory:
+	- Project directory contains two files.
+	- One is the apk (android application) file and the other one is the unity package of our 	source code
+
+NOTE: We have uploaded our source code in form of unity package as we were unable to upload directly 
+the whole project directory due to the issue that GitHub currently doesn't support pushing LFS objects to public forks.
+
+Reference: https://stackoverflow.com/questions/64400301/got-stuck-while-uploading-in-public-repository-in-github-via-git
+
+~ Hosting our project into your localhost:
+	- If you want to test our project then just download and install the apk file in an android device "supporting AR CORE".
+	- After installation, you will be redirected to Google Play Store to download and install "Google Play services for AR" in case you haven't installed this service anytime in the past.
+
+	- For source code:
+		- Download and install Unity game engine 2019.4.18f1. Unity installer download link
+		https://download.unity3d.com/download_unity/3310a4d4f880/UnityDownloadAssistant-2019.4.18f1.exe
+		- Download unity editor from this installer.
+		- After successful installation, open unity engine
+		- Go to Game tab -> Set Resolution -> 1920 x 1080 Portrait (height x width)
+		- Go to Assets -> import package -> select our unity package -> click import
+		- After successful importion of our unity package, you will be able to see all the unity scenes and associative assets in the project folder.
+
+
+
+		
