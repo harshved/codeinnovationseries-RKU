@@ -5,7 +5,8 @@
 
 ~ Contents of project directory:
 	- Project directory contains two files.
-	- One is the apk (android application) file and the other one is the unity package of our 	source code
+	- One is the zip of the apk (android application) file and the other one is the unity package of our source code
+	- NOTE : In case of any error in the zip, then find the actual apk file here https://drive.google.com/drive/folders/1XDW5eayt9yMpUGPGDJQ37IlXnYmY56Qh?usp=sharing
 
 NOTE: We have uploaded our source code in form of unity package as we were unable to upload directly 
 the whole project directory due to the issue that GitHub currently doesn't support pushing LFS objects to public forks.
